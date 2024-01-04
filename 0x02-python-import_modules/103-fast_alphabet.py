@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-#comment
-print("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+import string
+print(string.ascii_uppercase)
