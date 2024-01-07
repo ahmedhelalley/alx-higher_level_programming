@@ -4,7 +4,7 @@
  * @head: pointer to pointer to var head
  * Return: output
 */
-int is_palindrome(lsitint_t **head)
+int is_palindrome(listint_t **head)
 {
 	if (head == NULL || *head == NULL)
 		return (1);
