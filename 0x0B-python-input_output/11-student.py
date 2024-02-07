@@ -27,4 +27,4 @@ class Student:
         """replacing instances in student"""
         for key, value in json.items():
             if key in self.__dict__:
-                self.__dict__[key] = [value]
+                self.__dict__[key] = value
