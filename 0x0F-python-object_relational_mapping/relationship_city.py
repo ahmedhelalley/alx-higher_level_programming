@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Definition of city model"""
+"""Definitio city model"""
 
 from relationship_state import Base, State
 from sqlalchemy import Column, Integer, String, ForeignKey

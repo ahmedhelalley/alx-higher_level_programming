@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Prints the State object with the name passed as argument from hbtn_0e_6_usa
+"""Prints the State ed as argument from hbtn_0e_6_usa
 """
 
 import sys
