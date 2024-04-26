@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Implementation of find_peak function"""
+"""Implementation of f function"""
 
 
 def find_peak(list_of_integers):
-    """Finds a peak in a list of unsorted integers."""
+    """Finds a peak in a lunsorted integers."""
 
     if not list_of_integers or list_of_integers == []:
         return None
@@ -20,7 +20,7 @@ def find_peak(list_of_integers):
 
 
 def max(first_value, second_value):
-    """Return max of two integeres"""
+    """Return max ointegeres"""
     if first_value >= second_value:
         return first_value
     return second_value
