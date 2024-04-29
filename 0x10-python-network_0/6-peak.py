@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Implementation of f function"""
+"""Implementation of find_peak func"""
 
 
 def find_peak(list_of_integers):
